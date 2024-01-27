@@ -1,2 +1,2 @@
-# Trabalho-da_Faculdade2
+# TrabalhoEstruturaDeDados
 ADO de estrutura de dados 2° exercício 
